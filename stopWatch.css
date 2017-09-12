@@ -1,0 +1,33 @@
+body {
+  width:60%;
+  margin: 0 auto;
+  text-align:center;
+  border:1px solid black;
+  font-family: 'Patrick Hand SC', cursive;
+}
+header, footer {
+  background-color: black;
+  color:white;
+  margin:0;
+  padding:10px;
+  font-size:130%;
+}
+.midContainer {
+
+}
+.buttons {
+  padding: 20px;
+  background-color: black;
+
+}
+.timeContainer {
+  background-color: yellow;
+
+}
+button {
+  font-size:200%;
+}
+#time {
+  font-size: 800%;
+  margin: 0;
+}
