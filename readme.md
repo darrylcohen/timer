@@ -5,7 +5,7 @@ Darryl Cohen
 
 <img src=https://ibin.co/3a6XOwZYp5wz.jpg width="300">
 
-The Problem
+## The Problem
 
 Create a timer to start stop and pause
 
