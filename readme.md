@@ -9,7 +9,7 @@ The Problem
 
 Create a timer to start stop and pause
 
-[Play the Game](https://darrylcohen.github.io/timer/)
+[See Timer](https://darrylcohen.github.io/timer/)
 
 [Please visit my web site](https://www.darrylcohen.com.au)
 
